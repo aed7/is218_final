@@ -3,3 +3,9 @@ b.	Functional testing is a variation of black-box testing meaning that is a meth
 c.	Automated unit testing lets you find errors early in the development cycle of the project. It also helps save times since the developers don’t have to write new unit testing for each iteration of code. As stated before it reduces the need for manual testing. Automated unit testing is more widely used in the enterprise environment because even though it reduces the need for individual unit testing (code writing) it takes a lot of time and resources to create and adequate automated test.
 d.	Automated unit testing is mostly implemented in frameworks testing (NUnit frameworks). You can find more information about unit testing here: http://www.codeproject.com/Articles/5404/The-benefits-of-automated-unit-testing.
 e.	Test driven development is a method of software development in which unit is repeatedly done on source code. This process is repeated several times as necessary until each unit is functioning according to the desire specifications. It can also be described as an automated test and it is important because it helps ensure code quality and it eliminates the need to invoke a debugger.
+
+a.  What is unit testing, how is it implemented, and why is it important?
+b.	What is functional testing, how is it implemented, and why is it important?
+c.	What is the significance and usage of automated unit testing in software development?
+d.	Where would you commonly find automated unit testing implemented?  Can you find any documentation online that describes this and post a link to it?
+e.	What is test driven development and how can it improve the management and quality of software projects.
